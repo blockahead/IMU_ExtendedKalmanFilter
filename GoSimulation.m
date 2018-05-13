@@ -2,7 +2,6 @@ close all;
 clc;
 clear;
 
-addpath( 'SpringMassDamper' );
 addpath( 'ExtendedKalmanFilter' );
 addpath( 'InertialMeasurementUnit' );
 
